@@ -27,7 +27,11 @@ export default function Page() {
         <WhyNinety />
         <SleepInsights />
       </main>
-      <SiteFooter />
+      <footer className="w-full text-center py-6 px-4 bg-white dark:bg-black border-t border-gray-200 dark:border-gray-800">
+  <p className="text-sm text-gray-600 dark:text-gray-400">
+    Built with ❤️ by <span className="font-semibold text-black dark:text-white">Thashan Akesha</span> | 2026
+  </p>
+</footer>
     </div>
   )
 }
