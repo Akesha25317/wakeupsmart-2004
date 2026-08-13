@@ -27,7 +27,7 @@ export default function Page() {
         <WhyNinety />
         <SleepInsights />
 <footer className="text-center py-6 text-gray-500 text-sm">
-  Built with ❤️ by Pramudika | 2026
+  Built with ❤️ by Pramudika thashan  | 2026
 </footer>
       </main>
       <SiteFooter />
